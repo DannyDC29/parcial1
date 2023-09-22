@@ -1,0 +1,140 @@
+nav{
+    background-color: #052962;
+    font-size: 150%;
+    color: white;
+}
+
+.color{
+    color: white;
+}
+
+a{
+    padding-right: 5%;
+}
+
+.flexContainer{
+    display: flex;
+}
+
+.izquierda{
+width: 25%;
+}
+
+.derecha{
+    margin-left: 2%;
+    width: 30%;
+    background-color: #ededed
+    ;
+}
+
+.centro{
+    width: 60%;
+    background-color: #ab0613
+    ;
+}
+
+.nubesol{
+    width: 15%;
+    justify-content: right;
+}
+
+.tempe{
+    width: 7%;
+    justify-content: left;
+}
+
+.numTemp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 180%;
+    padding-left: 10%;
+}
+
+.textTemp{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+}
+
+.nube1{
+    width: 10%;
+    padding-right: 10%;
+}
+
+.nube2{
+    width: 10%;
+    padding-right: 10%;
+}
+
+.nube3{
+    width: 10%;
+    padding-right: 10%;
+}
+
+.nube4{
+    width: 10%;
+    padding-right: 10%;
+}
+
+.numTemp2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 160%;
+    padding-left: 10%;
+}
+
+.espacio{
+    padding-top: 13%;
+}
+
+.forecast{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 13%;
+}
+.corte{
+    color: white;
+    padding-left: 5%;
+}
+.live{
+    color: #ffbac8;
+    padding-left: 5%;
+}
+
+div>p>strong{
+    color: white;
+}
+
+div>p{
+    color: white;
+}
+
+.noidea {
+    padding-right: 2%;
+}
+
+.noidea2 {
+    padding-right: 2%;
+    padding-left: 1%;
+}
+
+.textIndia {
+    color: black;
+    font-size: 150%;
+    padding-left: 1%;
+}
+
+.india{
+    color: #c70000;
+    padding-left: 1%;
+}
+.textAna{
+    color: black;
+    padding-left: 1%;
+}
+
+.h2idk{
+    color: #ca1515;
+    padding-left: 1%;
+}
+
+.anali{
+    padding-top: 4%;
+}
